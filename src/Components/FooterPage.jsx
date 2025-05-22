@@ -21,7 +21,7 @@ const FooterPage = () => {
           <a href="https://www.instagram.com/v_j_d_i_n_e_s_h_8904?igsh=MXZ5andsbHlpMDdyZA==" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
             <FaInstagram size={24} />
           </a>
-          <a href="https://www.linkedin.com/in/dinesh-v-5a7b79259" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
+          <a href="https://www.linkedin.com/in/dinesh-vetriselvam-5a7b79259/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
             <FaLinkedin size={24} />
           </a>
         </div>

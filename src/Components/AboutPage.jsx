@@ -15,8 +15,9 @@ export const AboutPage = () => {
             <div className='mb-8'>
               <h2 className='font-bold text-xl lg:text-2xl'>FullStack Developer</h2>
               <p className='mt-2 text-md lg:text-xl'>
-                Passionate FullStack developer with hands-on experience in creating responsive web
-                applications using JavaScript, HTML, CSS, Bootstrap, Node.js, and Express. Proven
+              
+              Passionate FullStack developer with hands-on experience in creating responsive web
+                applications using HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js, Php, MYSQL and MongoDB. Proven
                 ability to design user-friendly interfaces and implement efficient back-end
                 functionalities. Eager to contribute to dynamic web development projects with a
                 strong commitment to delivering high-quality, engaging websites.

@@ -8,7 +8,7 @@ const InternshipPage = () => {
         {/* First Internship */}
         <div className="bg-white p-2 rounded-lg border border-black shadow-lg">
           <h3 className="text-lg lg:text-xl font-bold mb-2">Techzarinfo</h3>
-          <p className="text-md text-lg lg:text-xl text-gray-800 mb-2">Web Development Intern | Trichy, India</p>
+          <p className="text-md text-lg lg:text-xl text-gray-800 mb-2">Fullstack Development Intern | Trichy, India</p>
           <ul className="list-disc list-inside text-md lg:text-lg text-gray-800">
             <li>Completed a 3-month web development internship.</li>
             <li>Gained  experience in building applications.</li>

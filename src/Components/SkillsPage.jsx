@@ -43,6 +43,15 @@ const SkillsPage = () => {
             </div>
           </div>
 
+            {/* Skill Box 4 */}
+            <div className="bg-white text-black shadow-md p-4 rounded-lg flex items-center">
+            <img src="./Skills/php.png" alt="Skill Photo" className="w-16 h-16 rounded-full mr-4" />
+            <div>
+              <h3 className="text-md lg:text-xl font-bold">PHP Programming</h3>
+              <p className="text-gray-600 text-sm lg:text-lg">Server-side scripting language for dynamic web development.</p>
+            </div>
+          </div>
+
           {/* Skill Box 5 */}
           <div className="bg-white text-black shadow-md p-4 rounded-lg flex items-center">
             <img src="./Skills/node.png" alt="Skill Photo" className="w-16 h-16 rounded-full mr-4" />

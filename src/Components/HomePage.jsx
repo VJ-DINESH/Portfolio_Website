@@ -17,13 +17,13 @@ export const HomePage = () => {
         <span className='ml-3 text-3xl  justify-between font-bold '>DINESH VETRISELVAM</span><br/>
         <span  className='ml-3 text-2xl'>FullStack Developer | UI/UX</span>
     </h1>
-    <p className='mt-4 text-md lg:text-xl text-gary-400 px-4 md:px32'>Full Stack Developer Specializing in JavaScript, HTML, CSS, Bootstrap, Node.js, and Express | Creating Responsive, User-Friendly Web Application </p>
+    <p className='mt-4 text-md lg:text-xl text-gary-400 px-4 md:px32'>Full Stack Developer Specializing in  HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js, Php, MYSQL and MongoDB.| Creating Responsive, User-Friendly Web Application. </p>
     <div className='mt-8 space-x-4'>
         <button
         className=' text-xl sm:text-2xl border border-white border-x-2 border-y-2 rounded-md shadow-sm hover:scale-105 px-6 py-0 bg-blue-600  '><a href='mailto:vjdinesh8904@gmail.com'>Hire Me</a></button>
         <button
         className='text-xl sm:text-2xl border border-white border-x-2 border-y-2 rounded-md shadow-sm  hover:scale-105 px-6 py-0 bg-green-600'><a
-        href='./Resume/react_resume.pdf'
+        href='./Resume/Dinesh.Vetriselvam.pdf'
         target='_blank'
        
         
